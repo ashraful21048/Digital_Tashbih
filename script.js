@@ -1,8 +1,8 @@
 let count = 0;
 let tasbih = 0;
 let goal = 0;
-const maxCount = 100;   // প্রতিটি full tasbih এর জন্য
-const tasbihPerGoal = 10; // প্রতিটি spiritual goal এর জন্য 10 tasbih
+const maxCount = 100;   
+const tasbihPerGoal = 10;
 
 const countDisplay = document.getElementById('count');
 const tasbihDisplay = document.getElementById('tasbih');
